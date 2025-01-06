@@ -21,7 +21,7 @@ This script extracts NTLMv1 and NTLMv2 hashes from a SQLite database. These hash
 1. Place the `Responder.db` file in the same directory as the script.
 2. Run the script using the following command:
    ```bash
-   python3 ntlm_hash_extractor.py
+   python3 HashDumper.py
    ```
 3. Check the output files:
    - `DumpNTLMv1.txt` for NTLMv1 hashes.
