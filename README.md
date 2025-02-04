@@ -14,7 +14,7 @@ This script extracts NTLMv1 and NTLMv2 hashes from a SQLite database. These hash
 
 ## Prerequisites
 - Python 3.x
-- SQLite database file named `Responder.db`.
+- SQLite database file named `Responder.db`
 - Write permissions in the current directory to create output files.
 
 ## Usage
